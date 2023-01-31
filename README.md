@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @chiaramistro
-- 👀 I’m interested in WEB and MOBILE development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me chiaramistro[at]gmail.com
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l46C9fmJBThSNUxG0/giphy.gif" width="350"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chiaramistro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div id="text" align="center">
+  <h1>
+    Hi, I’m @chiaramistro 👋
+  </h1>
+  <span>
+    👀 I’m interested in WEB and MOBILE development
+    <br>
+    🌱 I’m currently learning Flutter
+    <br>
+    📫 How to reach me chiaramistro[at]gmail.com
+  </span>
+</div>
+
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaramistro)](https://github.com/chiaramistro/github-readme-stats)
 
 <!---
 chiaramistro/chiaramistro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
