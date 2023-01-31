@@ -25,11 +25,9 @@
 
 __
 __
-__
 <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="280"/>
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaramistro)](https://github.com/chiaramistro/github-readme-stats)
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
-__
 __
 __
 
